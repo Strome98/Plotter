@@ -1,0 +1,6 @@
+C:\Users\strom\OneDrive\Asztali gép\WebDev\PlotterFeladat\obj\Debug\net6.0-windows\PlotterFeladat.csproj.AssemblyReference.cache
+C:\Users\strom\OneDrive\Asztali gép\WebDev\PlotterFeladat\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\strom\OneDrive\Asztali gép\WebDev\PlotterFeladat\obj\Debug\net6.0-windows\Plotter.g.cs
+C:\Users\strom\OneDrive\Asztali gép\WebDev\PlotterFeladat\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\strom\OneDrive\Asztali gép\WebDev\PlotterFeladat\obj\Debug\net6.0-windows\PlotterFeladat_MarkupCompile.cache
+C:\Users\strom\OneDrive\Asztali gép\WebDev\PlotterFeladat\obj\Debug\net6.0-windows\PlotterFeladat_MarkupCompile.lref
